@@ -13,9 +13,4 @@ Before starting, ensure you have the following installed:
 - Python 3.8+
 - pip (Python package installer)
 
-## Installation
 
-Clone the repository to your local machine:
-```bash
-git clone https://yourrepositorylink.git
-cd your_repository_name
